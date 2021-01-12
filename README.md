@@ -1,2 +1,2 @@
 # Restaurant
-Website for restaurant menu
+_Website for restaurant menu_
